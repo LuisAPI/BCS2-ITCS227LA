@@ -40,3 +40,9 @@ This repository is maintained by Luis Anton P. Imperial, second-year BS Computer
 **Palindrome checker.** View whether or not a given input is a palindrome, which is a type of string that when reversed, retains the same order of characters.
 
 **Fibonacci sequence.** Our midterm laboratory exam, held two weeks before Holy Week, computes the Fibonacci sequence reaching a certain count. Baked in the script is an algorithm to produce such sequence, as a culmination of the previous lessons throughout the past month and a half.
+
+### Final period scripts
+
+**Cloud storage handling.** The first task assigned to us, after the Holy Week break, was to import the Drive module in Google Colab’s package. This would necessitate the use of Colab’s provided IDE, wherein we would import a given list of grades, and present statistics on it such as the lowest and the average among these.
+
+**Text file analysis.** We then proceeded the following week to read a given set of song lyrics and display its contents, an analysis of it, and metadata we had to research. This ensured that we knew how to manipulate external data sets distributed through Google’s off-shore cloud storage service, Drive.
